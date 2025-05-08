@@ -24,7 +24,6 @@ guru\sfg\beer\order\service\repositories\BeerOrderLineRepository.class
 guru\sfg\beer\order\service\services\BeerService.class
 guru\sfg\beer\order\service\domain\Customer.class
 guru\sfg\beer\order\service\services\BeerOrderService.class
-guru\sfg\beer\order\service\web\model\OrderStatusEnum.class
 guru\sfg\beer\order\service\repositories\BeerOrderRepository.class
 guru\sfg\beer\order\service\services\BeerServiceImpl.class
 guru\sfg\beer\order\service\web\model\OrderStatusUpdate$OrderStatusUpdateBuilder.class
