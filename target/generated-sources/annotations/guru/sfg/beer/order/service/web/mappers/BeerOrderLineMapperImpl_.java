@@ -1,8 +1,8 @@
 package guru.sfg.beer.order.service.web.mappers;
 
+import brewery.model.BeerOrderLineDto;
+import brewery.model.BeerOrderLineDto.BeerOrderLineDtoBuilder;
 import guru.sfg.beer.order.service.domain.BeerOrderLine;
-import guru.sfg.beer.order.service.web.model.BeerOrderLineDto;
-import guru.sfg.beer.order.service.web.model.BeerOrderLineDto.BeerOrderLineDtoBuilder;
 import javax.annotation.processing.Generated;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
@@ -10,7 +10,7 @@ import org.springframework.stereotype.Component;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2025-05-08T17:29:32+0530",
+    date = "2025-05-08T18:54:41+0530",
     comments = "version: 1.3.1.Final, compiler: javac, environment: Java 11.0.17 (Oracle Corporation)"
 )
 @Component

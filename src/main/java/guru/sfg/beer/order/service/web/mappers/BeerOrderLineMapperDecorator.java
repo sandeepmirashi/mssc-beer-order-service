@@ -2,14 +2,11 @@ package guru.sfg.beer.order.service.web.mappers;
 
 import guru.sfg.beer.order.service.domain.BeerOrderLine;
 import guru.sfg.beer.order.service.services.BeerService;
-import guru.sfg.beer.order.service.web.model.BeerDto;
-import guru.sfg.beer.order.service.web.model.BeerOrderLineDto;
-import lombok.Builder;
+import brewery.model.BeerDto;
+import brewery.model.BeerOrderLineDto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
-import org.springframework.stereotype.Component;
 
-import javax.swing.text.html.Option;
 import java.util.Optional;
 
 
